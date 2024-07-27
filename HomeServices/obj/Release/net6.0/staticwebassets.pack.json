@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Home services\\HomeServices\\HomeServices\\wwwroot\\images\\Profile_Image\\NoImage.jpg",
+      "PackagePath": "staticwebassets\\images\\Profile_Image\\NoImage.jpg"
+    },
+    {
+      "Id": "D:\\Home services\\HomeServices\\HomeServices\\wwwroot\\images\\Profile_Image\\Profile1.jpg",
+      "PackagePath": "staticwebassets\\images\\Profile_Image\\Profile1.jpg"
+    },
+    {
+      "Id": "D:\\Home services\\HomeServices\\HomeServices\\wwwroot\\images\\Profile_Image\\Profile2.jpg",
+      "PackagePath": "staticwebassets\\images\\Profile_Image\\Profile2.jpg"
+    },
+    {
+      "Id": "D:\\Home services\\HomeServices\\HomeServices\\wwwroot\\images\\category\\Cleaner.png",
+      "PackagePath": "staticwebassets\\images\\category\\Cleaner.png"
+    },
+    {
+      "Id": "D:\\Home services\\HomeServices\\HomeServices\\wwwroot\\images\\category\\Electrician.png",
+      "PackagePath": "staticwebassets\\images\\category\\Electrician.png"
+    },
+    {
+      "Id": "D:\\Home services\\HomeServices\\HomeServices\\wwwroot\\images\\category\\Plumbing.png",
+      "PackagePath": "staticwebassets\\images\\category\\Plumbing.png"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.HomeServices.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.HomeServices.props",
+      "PackagePath": "build\\HomeServices.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HomeServices.props",
+      "PackagePath": "buildMultiTargeting\\HomeServices.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.HomeServices.props",
+      "PackagePath": "buildTransitive\\HomeServices.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
